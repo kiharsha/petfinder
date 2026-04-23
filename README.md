@@ -47,7 +47,7 @@ Workflow:
 
 ## How to Run the Project
 1. Clone the repository
-   git clone https://github.com/your-username/petfinder.git
+   git clone https://github.com/kiharsha/petfinder.git
    cd petfinder
 
 2. Create and activate a virtual environment
